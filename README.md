@@ -1,1 +1,1 @@
-# component-translator.github.io
+# https://qomponents.github.io
